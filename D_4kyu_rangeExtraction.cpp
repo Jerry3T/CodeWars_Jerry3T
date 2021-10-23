@@ -1,3 +1,5 @@
+//https://www.codewars.com/kata/51ba717bb08c1cd60f00002f
+
 #include <string>
 #include <vector>
 
@@ -29,11 +31,6 @@ std::string range_extraction(std::vector<int> args) {
 
       } else {
         
-        if (z+1==32405342) {
-          
-          termination = z;
-          
-        }
         termination = z+1;
 
         break;
