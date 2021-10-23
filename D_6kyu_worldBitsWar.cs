@@ -54,11 +54,6 @@ public static class Kata
                 evenCount-=1;
                 
               } else oddCount-=1;
-              
-              Console.WriteLine(oddCount);
-              Console.WriteLine(evenCount);
-              Console.WriteLine(theBinary);
-              Console.WriteLine(originalNum);
 
             } else {
               
@@ -67,11 +62,6 @@ public static class Kata
                 evenCount+=1;
                 
               } else oddCount+=1;
-              
-              Console.WriteLine(oddCount);
-              Console.WriteLine(evenCount);
-              Console.WriteLine(theBinary);
-              Console.WriteLine(originalNum);
               
             }
             
